@@ -61,7 +61,7 @@ The following SQL queries were used to clean, transform, and analyze the dataset
 ### 🔹 Data Cleaning & Transformation
 
 * Standardized text fields using `LOWER()`
-* hecked for duplicate records
+* checked for duplicate records
 * Created derived columns:
 
 ```sql
@@ -147,6 +147,16 @@ ROUND(SUM(CASE WHEN attrition='yes' THEN 1 ELSE 0 END)*100.0/COUNT(*),2) AS attr
 FROM hr_table
 GROUP BY experience_group;
 ```
+
+---
+
+## 🔷 Data Transformation (Power Query)
+
+* Minor transformations done using **Power Query**
+
+  * Checking datatypes
+  * Checking column consistency
+  * Column transformations
 
 ---
 
