@@ -350,6 +350,6 @@ This project demonstrates how raw HR data can be transformed into meaningful ins
 **Gowsalya**
 
 * LinkedIn: www.linkedin.com/in/gowsalya-kannadhasan-0a7017139
-* GitHub: 
+* GitHub: https://github.com/GowsalyaKannan
 
 ---
