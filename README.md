@@ -284,15 +284,15 @@ DIVIDE(
 
 ### Attrition Overview
 
-![Attrition Overview](4_Screenshots/attrition_overview.png)
+![Attrition Overview](4_Screenshots/01_attrition_overview.png)
 
 ### Performance Analysis
 
-![Performance Analysis](4_Screenshots/performance_analysis.png)
+![Performance Analysis](4_Screenshots/02_performance_analysis.png)
 
 ### Salary Analysis
 
-![Salary Analysis](4_Screenshots/salary_analysis.png)
+![Salary Analysis](4_Screenshots/03_salary_analysis.png)
 
 ---
 
